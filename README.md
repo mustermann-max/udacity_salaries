@@ -14,7 +14,7 @@ To achieve this goal, I used data from the Stack Overflow Developer Survey 2025.
 
 File Descriptions
 - `Salaries.ipynb`: Jupyter notebook containing the main analysis and modeling code.
-- `survey_results_public.csv`: file containing the survey data.
+- `survey_results_public.csv`: file containing the survey data. becaus gitlab prevents large files it needs to be stiched using: cat SurveyResults* > survey_results_public.csv
 - `README.md`: this file.
 
 Project Findings
